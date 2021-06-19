@@ -12,5 +12,12 @@ Olá! Bem vindo ao meu livro de receitas da Família Rodrigues :heart_decoration
 
 *Comandos utilizados:* 
 
-- 
-
+- > echo > nome_do_arquivo.md
+  >
+  > git status
+  >
+  > git add 'nome_do_arquivo ou pasta'
+  >
+  > git add *
+  >
+  > git commit -m "add index"
