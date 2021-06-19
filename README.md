@@ -21,3 +21,5 @@ Olá! Bem vindo ao meu livro de receitas da Família Rodrigues :heart_decoration
   > git add *
   >
   > git commit -m "add index"
+  >
+  > git push origin master
